@@ -7,3 +7,7 @@
 
 <h3>Клонирование репозитория с указанием бранча</h3>
 git clone -b {branch} {remote_repo}
+
+<h3>Docker</h3>
+Использовать bash внутри докера: sudo docker exec -it d3162890c71a sh
+Выйти из докера: CTRL+P затем CTRL+Q
